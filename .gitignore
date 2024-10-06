@@ -165,7 +165,7 @@ cython_debug/
 .DS_Store
 
 # Application-specific
-./config.yaml
-./SecretKey.txt
-./output/
-./log/
+/config.yaml
+/SecretKey.txt
+/output/
+/log/
