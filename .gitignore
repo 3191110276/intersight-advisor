@@ -168,3 +168,4 @@ cython_debug/
 ./config.yaml
 ./SecretKey.txt
 ./output/
+./log/
