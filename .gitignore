@@ -167,3 +167,4 @@ cython_debug/
 # Application-specific
 ./config.yaml
 ./SecretKey.txt
+./output/
